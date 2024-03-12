@@ -1,5 +1,4 @@
 
-<p align="center"> Introducing Cling_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 
 <h3 align="center"> WHIZ </h3> 
