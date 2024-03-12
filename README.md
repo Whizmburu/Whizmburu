@@ -100,5 +100,5 @@
 - 👋 Hi, I’m @Whiz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning TIE
-- 📫 How to reach me [WHATSAAP](+254754783683)
+- 📫 How to reach me [WHATSAAP](WA.ME.254754783683)
 
