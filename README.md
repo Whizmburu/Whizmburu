@@ -1,19 +1,4 @@
 
-
-
-<h3 align="center"> WHIZ </h3> 
-
-
-
-
-<p align="center">
-  <a href="https://chat.whatsapp.com/L1DzziySDqdLWibrD2R1J7">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/481296919746f56820d40.jpg">
-  </a>
-</p>
-    
-   
-   
 <p align="center">
   <a href="https://wa.me/+254754783683?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Cling-Md+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -62,36 +47,6 @@
 
 
  
-
-
-
-
-    
-   
-## Deployment Methods
----
-1.
-##
----                          <p align="center">[HEROKU LINK](https://heroku.com/deploy?template=)</p>
-
-
-- Star ⭐ repo if you like this bot.
-
-
-
-<h2 align="center">  NOTICE
-</h2>
-   
-## 
-- *Cling-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Cling-Md at your own risk by keeping this warning in mind.*
-
-- 
-- [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fwhizmburu%2FCling-Md)
-
-
-
 
 
 
